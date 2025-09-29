@@ -11,7 +11,11 @@
       <schema-mapping>
         <introspection-scope>
           <node negative="1">
-            <node kind="database" qname="postgres">
+            <node kind="database">
+              <name qname="advanced_lab" />
+              <name qname="elearing_platform" />
+              <name qname="postgres" />
+              <name qname="hostipal_patients" />
               <node kind="schema" negative="1" />
             </node>
             <node kind="database">
