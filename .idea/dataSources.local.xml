@@ -14,6 +14,7 @@
             <node kind="database">
               <name qname="advanced_lab" />
               <name qname="elearing_platform" />
+              <name qname="lab4" />
               <name qname="postgres" />
               <name qname="hostipal_patients" />
               <node kind="schema" negative="1" />

@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1820e8d7-841a-4ecb-8510-3d9c1fe3490e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/def2.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3_advanced_dml.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/def3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4_advanced.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/35005a7d-66dd-4f99-a8d6-6b5085e262f5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/35005a7d-66dd-4f99-a8d6-6b5085e262f5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_source_mapping.xml" afterDir="false" />
